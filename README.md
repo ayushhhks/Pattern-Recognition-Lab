@@ -1,2 +1,2 @@
 # Pattern-Recognition-Lab
-Contains Programs of Pattern Reconition Lab
+Contains Programs of Pattern Recognition Lab
